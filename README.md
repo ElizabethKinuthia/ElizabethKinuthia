@@ -19,6 +19,6 @@ Welcome to my GitHub profile! I am a passionate data analyst with a drive for un
 
 ## 📫 Let's Connect!
 
-I'm always eager to collaborate and share knowledge. You can reach me at [nduta.kinuthia6@gmail.com] or connect with me on [LinkedIn]([LinkedIn Profile Link](https://www.linkedin.com/in/elizabeth-nduta-kinuthia/)). Feel free to explore my repositories and projects on this GitHub profile. Don't hesitate to reach out if you have any questions or opportunities for collaboration!
+I'm always eager to collaborate and share knowledge. You can reach me via [email](mailto:nduta.kinuthia6@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth-nduta-kinuthia/). Feel free to explore my repositories and projects on this GitHub profile. Don't hesitate to reach out if you have any questions or opportunities for collaboration!
 
 Looking forward to connecting with you and exploring the exciting world of data analytics together!
