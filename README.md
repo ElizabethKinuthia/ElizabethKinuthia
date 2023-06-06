@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Elizabeth! 👋
 
-<!--
-**ElizabethKinuthia/ElizabethKinuthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate data analyst with a drive for uncovering insights and driving data-driven decisions. I am excited about the potential of data analytics to transform businesses and optimize decision-making processes.
 
-Here are some ideas to get you started:
+## 📚 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, R, SQL
+- **Data Visualization:** Tableau, Matplotlib, Seaborn
+- **Data Manipulation:** Pandas, tidyverse, SQL
+- **Statistical Analysis:** Hypothesis testing, Regression analysis
+- **Machine Learning:** Scikit-learn
+- **Tools:** Jupyter Notebook, R Studio, Excel
+
+## 🌱 Education
+
+- Bachelor's degree in Actuarial Science with a Minor in Statistics, Penn State University
+- Completed Google Data Analytics Professional Certificate, Coursera
+- Completed IBM Data Analyst Professional Certificate, Coursera
+
+## 📫 Let's Connect!
+
+I'm always eager to collaborate and share knowledge. You can reach me at [Your Email] or connect with me on [LinkedIn](LinkedIn Profile Link). Feel free to explore my repositories and projects on this GitHub profile. Don't hesitate to reach out if you have any questions or opportunities for collaboration!
+
+Looking forward to connecting with you and exploring the exciting world of data analytics together!
