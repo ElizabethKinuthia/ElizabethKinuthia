@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a passionate data analyst with a drive for uncovering insights and driving data-driven decisions. I am excited about the potential of data analytics to transform businesses and optimize decision-making processes.
 
-## 📚 Technical Skills
+## 🛠 Technical Skills
 
 - **Languages:** Python, R, SQL
 - **Data Visualization:** Tableau, Matplotlib, Seaborn
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a passionate data analyst with a drive for un
 - **Machine Learning:** Scikit-learn
 - **Tools:** Jupyter Notebook, R Studio, Excel
 
-## 🌱 Education
+## 📚 Education
 
 - Bachelor's degree in Actuarial Science with a Minor in Statistics, Penn State University
 - Completed Google Data Analytics Professional Certificate, Coursera
