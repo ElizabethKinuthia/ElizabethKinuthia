@@ -17,6 +17,13 @@ Welcome to my GitHub profile! I am a passionate data analyst with a drive for un
 - Completed Google Data Analytics Professional Certificate, Coursera
 - Completed IBM Data Analyst Professional Certificate, Coursera
 
+## 💻 Projects
+
+- [Predictive Modeling Project](https://github.com/ElizabethKinuthia/python_predictive_modeling): utilized Python's scikit-learn library to conduct regression analysis.
+- [Customer Behavior Analysis](https://github.com/ElizabethKinuthia/cyclistic-bike-share-project): utilized R to perform exploratory data analysis and statistical data analysis and visualized my findings on Tableau.
+- [SQL Data Cleaning](https://github.com/ElizabethKinuthia/sql_data_cleaning_project): utilized SQL on IBM DB2 to clean data and visualized my findings on Tableau.
+- [Interactive KPI Dashboard](https://github.com/ElizabethKinuthia/superstore-dashboard): utilized Excel to create an interactive KPI dashboard using pivot tables, pivot charts, and slicers. 
+
 ## 📫 Let's Connect!
 
 I'm always eager to collaborate and share knowledge. You can reach me via [email](mailto:nduta.kinuthia6@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth-nduta-kinuthia/). Feel free to explore my repositories and projects on this GitHub profile. Don't hesitate to reach out if you have any questions or opportunities for collaboration!
