@@ -22,7 +22,9 @@ Welcome to my GitHub profile! I am a passionate data analyst with a drive for un
 - [Predictive Modeling Project](https://github.com/ElizabethKinuthia/python_predictive_modeling): utilized Python's scikit-learn library to conduct regression analysis.
 - [Customer Behavior Analysis](https://github.com/ElizabethKinuthia/cyclistic-bike-share-project): utilized R to perform exploratory data analysis and statistical data analysis and visualized my findings on Tableau.
 - [SQL Data Cleaning](https://github.com/ElizabethKinuthia/sql_data_cleaning_project): utilized SQL on IBM DB2 to clean data and visualized my findings on Tableau.
-- [Interactive KPI Dashboard](https://github.com/ElizabethKinuthia/superstore-dashboard): utilized Excel to create an interactive KPI dashboard using pivot tables, pivot charts, and slicers. 
+- [Investment Analysis Project](https://github.com/ElizabethKinuthia/python_investment_analysis/blob/437079d1713d74ade6576b4203b5428ab9e58290/Elizabeth%20Nduta%20Kinuthia%20-%20Investment%20Analysis%20using%20Python.ipynb): Analyzed solar battery investment with Python, calculating potential savings, NPV, and IRR for informed decision-making.
+- [Interactive KPI Dashboard](https://github.com/ElizabethKinuthia/superstore-dashboard): utilized Excel to create an interactive KPI dashboard using pivot tables, pivot charts, and slicers.
+
 
 ## 📫 Let's Connect!
 
